@@ -7,4 +7,6 @@ Hello everyone, I'm Geekcattle, a full-stack developer and independent developer
 ## Individual works
 [https://www.geekcattle.com](https://www.geekcattle.com)
 
+[https://awesome.geekcattle.com](https://awesome.geekcattle.com)
+
 [https://www.haopinyin.top](https://www.haopinyin.top)
